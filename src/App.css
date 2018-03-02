@@ -1,0 +1,14 @@
+.App {
+  margin: 20px;
+}
+
+.App li {
+  cursor: pointer;
+  position: relative;
+  width: 200px;
+}
+
+.App li span:last-child {
+  position: absolute;
+  right: 0;
+}
